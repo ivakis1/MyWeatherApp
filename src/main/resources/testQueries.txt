@@ -1,0 +1,8 @@
+GET localhost:8080/dummy/GetAll
+
+GET localhost:8080/dummy/getFriendByName/Pesho
+
+GET localhost:8080/dummy/getFriendByName?Pesho
+
+GET /current/weather/city/London
+
