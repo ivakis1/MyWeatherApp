@@ -6,3 +6,5 @@ GET localhost:8080/dummy/getFriendByName?Pesho
 
 GET /current/weather/city/London
 
+TestBranch
+
